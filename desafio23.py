@@ -1,0 +1,6 @@
+num = input('Digite um número: ')
+quebra = list(num)
+print(f'Unidade: {quebra[3]}')
+print(f'Dezena: {quebra[2]}')
+print(f'Centena: {quebra[1]}')
+print(f'Milhar: {quebra[0]}')
