@@ -19,5 +19,5 @@ This repository contains my solutions for the exercises from **World 1** of the 
 | **001-002** | Initial steps and primitives | ✅ Completed |
 | **003-015** | Arithmetic operators & Input | ✅ Completed |
 | **016-021** | Utilizing Modules (Math/Random) | ✅ Completed |
-| **022-027** | Text Manipulation | On going |
-| **028-035** | Conditions (If/Else) | On going |
+| **022-027** | Text Manipulation | ✅ Completed |
+| **028-034** | Conditions (If/Else) | ✅ Completed |
